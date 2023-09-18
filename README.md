@@ -1,1 +1,1 @@
-In this project I am still learning C-programming language and this project will focus on Pointers,Arrays and Strings in C programming language
+In this repository I will be learning C-Programming language through projects that we are given at ALX SE programme
