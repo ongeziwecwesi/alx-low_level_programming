@@ -1,1 +1,1 @@
-This repository will contain my C programming projects that I wiil be doing,the first one being 0x00. C - Hello, World
+In this project I am still learning C-programming language and this project will focus on Pointers,Arrays and Strings in C programming language
